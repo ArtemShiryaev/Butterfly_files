@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -march=native -mtune=native -Ofast   CMakeFiles/udp_test.dir/test_udp.cpp.o  -o ../../../udp_test -rdynamic ../libnetworking.a ../../cppmisc/libcppmisc.a -ljsoncpp -lpthread 

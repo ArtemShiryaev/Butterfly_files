@@ -1,0 +1,1 @@
+/usr/bin/c++   -march=native -mtune=native -Ofast   CMakeFiles/test_servo_pos.dir/test_servo_pos.cpp.o  -o ../test_servo_pos -rdynamic ../libbutterfly.a ../3rd_party/cppnetworking/libnetworking.a ../3rd_party/cppmisc/libcppmisc.a -ljsoncpp -lpthread 
