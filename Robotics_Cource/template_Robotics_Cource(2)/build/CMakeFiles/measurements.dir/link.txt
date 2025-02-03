@@ -1,1 +1,0 @@
-/usr/bin/c++   -march=native -mtune=native -Ofast   CMakeFiles/measurements.dir/src/measurements.cpp.o  -o measurements -rdynamic libbutterfly.a 3rd_party/cppnetworking/libnetworking.a 3rd_party/cppmisc/libcppmisc.a -ljsoncpp -lpthread 

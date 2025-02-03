@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbutterfly.a  CMakeFiles/butterfly.dir/src/servo_iface.cpp.o CMakeFiles/butterfly.dir/src/butterfly.cpp.o CMakeFiles/butterfly.dir/src/splines.cpp.o
-/usr/bin/ranlib libbutterfly.a

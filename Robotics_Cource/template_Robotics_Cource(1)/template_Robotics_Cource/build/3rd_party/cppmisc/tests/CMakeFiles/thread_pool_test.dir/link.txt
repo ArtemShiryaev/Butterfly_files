@@ -1,1 +1,0 @@
-/usr/bin/c++    -Wall -march=native -mtune=native -Ofast   CMakeFiles/thread_pool_test.dir/thread_pool_test.cpp.o  -o ../../../thread_pool_test -rdynamic ../libcppmisc.a -ljsoncpp -lpthread 

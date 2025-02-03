@@ -1,1 +1,0 @@
-/usr/bin/c++   -march=native -mtune=native -Ofast   CMakeFiles/controller.dir/src/controller.cpp.o  -o controller -rdynamic libbutterfly.a 3rd_party/cppnetworking/libnetworking.a 3rd_party/cppmisc/libcppmisc.a -ljsoncpp -lpthread 

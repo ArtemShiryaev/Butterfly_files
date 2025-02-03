@@ -1,1 +1,0 @@
-/usr/bin/c++    -Wall -march=native -mtune=native -Ofast   CMakeFiles/task_queue_test.dir/task_queue_test.cpp.o  -o ../../../task_queue_test -rdynamic ../libcppmisc.a -ljsoncpp -lpthread 

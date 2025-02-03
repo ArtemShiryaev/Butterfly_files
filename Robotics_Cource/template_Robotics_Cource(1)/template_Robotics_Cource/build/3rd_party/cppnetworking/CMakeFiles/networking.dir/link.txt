@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnetworking.a  CMakeFiles/networking.dir/src/udp.cpp.o CMakeFiles/networking.dir/src/tcp.cpp.o
-/usr/bin/ranlib libnetworking.a
