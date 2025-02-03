@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -march=native -mtune=native -Ofast -rdynamic CMakeFiles/json_test.dir/json_test.cpp.o -o ../../../json_test  ../libcppmisc.a -ljsoncpp 

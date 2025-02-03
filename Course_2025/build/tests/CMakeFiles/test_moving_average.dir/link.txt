@@ -1,0 +1,1 @@
+/usr/bin/c++ -march=native -mtune=native -Ofast -rdynamic CMakeFiles/test_moving_average.dir/test_moving_average.cpp.o -o ../test_moving_average  ../libbutterfly.a ../3rd_party/cppnetworking/libnetworking.a ../3rd_party/cppmisc/libcppmisc.a -ljsoncpp 
